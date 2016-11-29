@@ -1,0 +1,30 @@
+{
+  "name": "Care-Axiom-Assignment",
+  "version": "1.0.0",
+  "description": "Control flow assignment for care axiom",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Basic request",
+    "http",
+    "control flow",
+    "async.js",
+    "promise"
+  ],
+  "author": "daniyal usmani",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "debug": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
