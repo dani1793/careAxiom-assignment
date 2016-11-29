@@ -7,5 +7,5 @@ STEPS:
 
 NOTE: The code is written in ES6 and conversion could be required if you are running old node version.
 The babel task of convert is created use command
-babel convert to create a list folder containing plain JS code
+babel convert to create a dist folder containing plain JS code
 
